@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on an E-commerce Web applicaion
+- 🔭 I’m currently working on an E-commerce Web application
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Web applications
 - 🤔 I’m looking for help with Android app development
